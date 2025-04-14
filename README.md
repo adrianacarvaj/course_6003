@@ -1,4 +1,4 @@
-# IrisAnalysis
+# course_6003 IrisAnalysis Project
 
 **Course:**  Intermediate R –Data Science and Visualization Techniques Beyond Base R (6003) – Karolinska Institutet  
 **Language:** R  
